@@ -19,6 +19,7 @@ div.alphabet ul.pagination > li {
 }
 
 div.alphabet a span {
+	text-decoration: underline !important;
 	opacity:1;
 }
 
