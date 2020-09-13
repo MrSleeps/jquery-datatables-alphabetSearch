@@ -7,6 +7,7 @@ that provides A-Z alphabetical search feature.
 More information and examples is available at
 [gyrocode.com/projects/jquery-datatables-alphabetsearch](https://www.gyrocode.com/projects/jquery-datatables-alphabetsearch/).
 
+I've changed the code to suit my needs for a Bootstrap 4 website, it turns the UL inline and adds relevant classes.
 
 How to use
 ----------
