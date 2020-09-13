@@ -270,7 +270,7 @@ function draw ( table, alphabet, context )
 
 $.fn.dataTable.AlphabetSearch = function ( context ) {
    var table = new $.fn.dataTable.Api( context );
-   var alphabet = $('<div class="alphabet"/>');
+   var alphabet = $('<div class="alphabet text-center"/>');
 
    // Language
    context.oLanguage.alphabetSearch =
